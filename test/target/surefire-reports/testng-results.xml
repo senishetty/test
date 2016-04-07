@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15583" started-at="2016-04-07T06:42:54Z" finished-at="2016-04-07T06:43:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15583" started-at="2016-04-07T06:42:54Z" finished-at="2016-04-07T06:43:10Z">
+      <class name="testing.test321">
+        <test-method status="PASS" signature="test3()[pri:0, instance:testing.test321@19cd6b6]" name="test3" duration-ms="0" started-at="2016-04-07T12:13:10Z" finished-at="2016-04-07T12:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- testing.test321 -->
+      <class name="testing.test123">
+        <test-method status="PASS" signature="test1()[pri:0, instance:testing.test123@aa6635]" name="test1" duration-ms="15568" started-at="2016-04-07T12:12:54Z" finished-at="2016-04-07T12:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:testing.test123@aa6635]" name="test2" duration-ms="0" started-at="2016-04-07T12:13:10Z" finished-at="2016-04-07T12:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- testing.test123 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
